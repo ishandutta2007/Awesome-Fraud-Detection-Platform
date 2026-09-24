@@ -52,28 +52,28 @@ Below is a curated comparison of leading SaaS & enterprise fraud decisioning pla
 
 Explore top open-source projects for building custom fraud detection pipelines, graph-based anomaly detectors, and transaction monitoring microservices. Sorted by GitHub community stars ⭐.
 
-- **[yzhao062 / pyod](https://github.com/yzhao062/pyod)** [![GitHub stars](https://img.shields.io/github/stars/yzhao062/pyod?style=social&color=white)](https://github.com/yzhao062/pyod/stargazers)  
+- **[yzhao062 / pyod](https://github.com/yzhao062/pyod)** [![GitHub_Stars](https://img.shields.io/github/stars/yzhao062/pyod?style=social&color=white)](https://github.com/yzhao062/pyod/stargazers)  
   Comprehensive Python toolkit for detecting outlying objects in transaction and anomaly datasets. Contains 40+ detection algorithms.
 
-- **[t4d / StalkPhish](https://github.com/t4d/StalkPhish)** [![GitHub stars](https://img.shields.io/github/stars/t4d/StalkPhish?style=social&color=white)](https://github.com/t4d/StalkPhish/stargazers)  
+- **[t4d / StalkPhish](https://github.com/t4d/StalkPhish)** [![GitHub_Stars](https://img.shields.io/github/stars/t4d/StalkPhish?style=social&color=white)](https://github.com/t4d/StalkPhish/stargazers)  
   Open-source threat intelligence and phishing kit investigation engine for proactive fraud prevention.
 
-- **[IBM / TabFormer](https://github.com/IBM/TabFormer)** [![GitHub stars](https://img.shields.io/github/stars/IBM/TabFormer?style=social&color=white)](https://github.com/IBM/TabFormer/stargazers)  
+- **[IBM / TabFormer](https://github.com/IBM/TabFormer)** [![GitHub_Stars](https://img.shields.io/github/stars/IBM/TabFormer?style=social&color=white)](https://github.com/IBM/TabFormer/stargazers)  
   Tabular Transformers for modeling multivariate time-series transaction data in financial fraud applications.
 
-- **[SantanderAI / gen-fraud-graph](https://github.com/SantanderAI/gen-fraud-graph)** [![GitHub stars](https://img.shields.io/github/stars/SantanderAI/gen-fraud-graph?style=social&color=white)](https://github.com/SantanderAI/gen-fraud-graph/stargazers)  
+- **[SantanderAI / gen-fraud-graph](https://github.com/SantanderAI/gen-fraud-graph)** [![GitHub_Stars](https://img.shields.io/github/stars/SantanderAI/gen-fraud-graph?style=social&color=white)](https://github.com/SantanderAI/gen-fraud-graph/stargazers)  
   Synthetic graph generation framework for benchmarking graph neural network (GNN) fraud models in banking.
 
-- **[awslabs / realtime-fraud-detection-with-gnn-on-dgl](https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl)** [![GitHub stars](https://img.shields.io/github/stars/awslabs/realtime-fraud-detection-with-gnn-on-dgl?style=social&color=white)](https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl/stargazers)  
+- **[awslabs / realtime-fraud-detection-with-gnn-on-dgl](https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl)** [![GitHub_Stars](https://img.shields.io/github/stars/awslabs/realtime-fraud-detection-with-gnn-on-dgl?style=social&color=white)](https://github.com/awslabs/realtime-fraud-detection-with-gnn-on-dgl/stargazers)  
   AWS reference architecture for building real-time fraud detection pipelines using Deep Graph Library (DGL) and Graph Neural Networks.
 
-- **[GitiHubi / deepAI](https://github.com/GitiHubi/deepAI)** [![GitHub stars](https://img.shields.io/github/stars/GitiHubi/deepAI?style=social&color=white)](https://github.com/GitiHubi/deepAI/stargazers)  
+- **[GitiHubi / deepAI](https://github.com/GitiHubi/deepAI)** [![GitHub_Stars](https://img.shields.io/github/stars/GitiHubi/deepAI?style=social&color=white)](https://github.com/GitiHubi/deepAI/stargazers)  
   Deep autoencoder neural networks for detecting accounting anomalies and financial fraud patterns.
 
-- **[safe-graph / DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2)** [![GitHub stars](https://img.shields.io/github/stars/safe-graph/DGFraud-TF2?style=social&color=white)](https://github.com/safe-graph/DGFraud-TF2/stargazers)  
+- **[safe-graph / DGFraud-TF2](https://github.com/safe-graph/DGFraud-TF2)** [![GitHub_Stars](https://img.shields.io/github/stars/safe-graph/DGFraud-TF2?style=social&color=white)](https://github.com/safe-graph/DGFraud-TF2/stargazers)  
   TensorFlow 2.X implementation of graph neural network models for financial and transaction fraud detection.
 
-- **[jube-home / aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring)** [![GitHub stars](https://img.shields.io/github/stars/jube-home/aml-fraud-transaction-monitoring?style=social&color=white)](https://github.com/jube-home/aml-fraud-transaction-monitoring/stargazers)  
+- **[jube-home / aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring)** [![GitHub_Stars](https://img.shields.io/github/stars/jube-home/aml-fraud-transaction-monitoring?style=social&color=white)](https://github.com/jube-home/aml-fraud-transaction-monitoring/stargazers)  
   Open-source (AGPLv3) engine combining business rule evaluation and ML scoring with case management for real-time transaction monitoring.
 
 ---
@@ -101,7 +101,7 @@ Contributions are warmly welcomed! Help keep this curated list up-to-date and ac
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or edit** entries in `README.md` following the standard table/list formats.
-3. 🔗 Include official documentation links, explicit pricing details, and star counts where applicable.
+3. 🔗 Include official documentation links, explicit pricing details, and Stars_Counts where applicable.
 4. 🚀 Open a **Pull Request** with a brief summary of additions!
 
 ---
